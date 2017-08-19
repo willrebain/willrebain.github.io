@@ -4,7 +4,8 @@
   "description": "A simple blog for Will Rebain",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bundle exec jekyll serve"
   },
   "author": "willrebain",
   "license": "ISC",
